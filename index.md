@@ -1,5 +1,3 @@
-# EVA APE COGNITION
-
 ## Introduction
 
 #### **For many years researchers have investigated the evolutionary forces driving the evolution of primate societies. They have developed socioecological models to study the determinants of primate social organization [1–3], while ecological and intelligence hypotheses have been put forward to explain the evolution of large brains in primates [1,2].** 
