@@ -21,8 +21,8 @@
 ## Methodological Approach
 
 #### **We will use datasets from publish work at the WKRPC conducted between 2001 and 2020.** 
-#### **We will extract pertinent information from the datasets to calculate apes’ individual scores on cognitive performance and preferences.
-We define cognitive performance as an umbrella term to assess how well an individual performs a task or activity. There must be a precise measure of success or correctness (e.g., obtain a reward or not, pass pre-established criteria or not). Similarly, we define preference as a variable that assesses the tendency to care about the outcomes of others in addition to their own. There is no precise measure of success or correctness.**
+#### **We will extract relevant information from the datasets to calculate apes’ individual scores on cognitive performance and preferences.**
+#### **We define cognitive performance as an umbrella term to assess how well an individual performs a task or activity. There must be a precise measure of success or correctness (e.g., obtain a reward or not, pass pre-established criteria or not). Similarly, we define preference as a variable that assesses the tendency to care about the outcomes of others in addition to their own. There is no precise measure of success or correctness.**
 
 #### **We have begun to sort out all the social cognition studies conducted with the A chimp group in the Leipzig zoo between 2004 and 2020. We find +90 relevant studies, of which +50 fall into social interactions (competitive, cooperative, and prosocial outcomes). Alternatively, we have sorted out studies by the cognitive requisites that subjects require to predict others' behavior. To do so, we have extended the recent review by Lewis and Krupenye [21] on ToM to assess our entire dataset.**
 
