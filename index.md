@@ -30,10 +30,10 @@
 
 
 ![alt text](https://raw.githubusercontent.com/ccp-eva/EVApeCognition.github.io/gh-pages/individuals.png "Individual scores across 6 cooperative tasks")
-##### **Figure 3.** Performance of individuals across tasks. Zero values represent individuals' cooperativeness average.**
+##### **Figure 3. Performance of individuals across tasks. Zero values represent individuals' cooperativeness average.**
 
 
 ![alt text](https://raw.githubusercontent.com/ccp-eva/EVApeCognition.github.io/gh-pages/studies.png "Study scores across 6 cooperative tasks")
-##### **Figure 4.** Individual performance grouped across tasks. Zero values represent cooperativeness average.**
+##### **Figure 4. Individual performance grouped across tasks. Zero values represent cooperativeness average.**
 
 ###### Figures: chimpanzee icon collection, Sarah DeTroy, 2021
