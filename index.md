@@ -11,11 +11,12 @@
 #### **To measure cognitive performance and preferences, we will assess around 100 published studies on social cognition in this population. These social cognition studies include work on social interactions (e.g., cooperative, competitive and prosocial interactions), communication (e.g., pointing and iconic gestures) or Theory of Mind (e.g., understanding of goals, perceptions and beliefs). Likewise, to assess social fitness, we will code sociality scores on proximity, grooming, and other social interactions [6] to generate different social networks [14–16] by using video data of weekly focal samples of this group (2001-2020).**
 
 ![alt text](https://raw.githubusercontent.com/ccp-eva/EVApeCognition.github.io/gh-pages/PI1.jpg "Project Idea 1")
+##### **Figure 1.** Project Idea 1 
 
 #### **Combining these two datasets (experimental studies and video recordings) will also seek to explore the relationship between early social development and participation, performance and preferences in socio-cognitive taskas at the WKPRC. Early work in other species has shed some light on the relationship between early development influenes on individuals’ socio-cognitive abilities  [17–19]. For instance, [20] found differences in joint-attention and cooperativeness development in young chimpanzees due to differences in emotional engament experiences during early ontogeny. However, while in [20] study their two chimpanzee groups were raised by human caretakers, young chimpanzees in our study population have been raised by their mothers within their eco-social group in Leipzig Zoo. Such naturalistic rearment conditions allows us to specifically explore the influence of mother-infant relationship on social development, as well as the influence of diverse social relatioships between the infant and other conspecific group members such as fathers and sliblings during early ontogeny.**
 
 ![alt text](https://raw.githubusercontent.com/ccp-eva/EVApeCognition.github.io/gh-pages/PI2.png "Project Idea 2") 
-
+##### **Figure 2.** Project Idea 2
 ## Methodological Approach
 
 #### **We will use datasets from publish work at the WKRPC conducted between 2001 and 2020. 
@@ -29,5 +30,9 @@ Our idea is to use these individual scores as predictors for sociality analysis.
 
 
 ![alt text](https://raw.githubusercontent.com/ccp-eva/EVApeCognition.github.io/gh-pages/individuals.png "Individual scores across 6 cooperative tasks")
+##### **Figure 3.**Performance of individuals across tasks. Zero values represent individuals' cooperativeness average.**
+
+![alt text](https://raw.githubusercontent.com/ccp-eva/EVApeCognition.github.io/gh-pages/studies.png) "Study scores across 6 cooperative tasks)
+##### **Figure 4.**Individual performance grouped across tasks. Zero values represent cooperativeness average.**
 
 ###### Figures: chimpanzee icon collection, Sarah DeTroy, 2021
