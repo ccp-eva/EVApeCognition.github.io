@@ -25,15 +25,15 @@ We define cognitive performance as an umbrella term to assess how well an indivi
 
 #### **We have begun to sort out all the social cognition studies conducted with the A chimp group in the Leipzig zoo between 2004 and 2020. We find +90 relevant studies, of which +50 fall into social interactions (competitive, cooperative, and prosocial outcomes). Alternatively, we have sorted out studies by the cognitive requisites that subjects require to predict others' behavior. To do so, we have extended the recent review by Lewis and Krupenye [21] on ToM to assess our entire dataset.**
 
-#### **To illustrate the approach we envision, we have selected six studies in which dyads of chimpanzees had the opportunity to mutually cooperate to retrieve mutual rewards [22–27]. Here we illustrate the relative performance of each individual concerning the group average. We also illustrate the performance of individuals across the six tasks. 
-Our idea is to use these individual scores as predictors for sociality analysis. To extract the sociality scores, we will use the 5-min weekly focal observations from 2001 to 2020—these results in approximately 52 videos per subject per year. We will code the videos using a recently ethogram we have developed. The ethogram mainly focuses on state events (durations) of proximity, grooming, affiliative and agonistic interactions, sexual behavior, food sharing, and individual activity. In addition, we will scan proximity at the beginning and the end of every video clip. We will BORIS software to code our videos.** 
+#### **To illustrate the approach we envision, we have selected six studies in which dyads of chimpanzees had the opportunity to mutually cooperate to retrieve mutual rewards [22–27]. Here we illustrate the relative performance of each individual concerning the group average. We also illustrate the performance of individuals across the six tasks.** 
+#### **Our idea is to use these individual scores as predictors for sociality analysis. To extract the sociality scores, we will use the 5-min weekly focal observations from 2001 to 2020—these results in approximately 52 videos per subject per year. We will code the videos using a recently ethogram we have developed. The ethogram mainly focuses on state events (durations) of proximity, grooming, affiliative and agonistic interactions, sexual behavior, food sharing, and individual activity. In addition, we will scan proximity at the beginning and the end of every video clip. We will BORIS software to code our videos.** 
 
 
 ![alt text](https://raw.githubusercontent.com/ccp-eva/EVApeCognition.github.io/gh-pages/individuals.png "Individual scores across 6 cooperative tasks")
 ##### **Figure 3.** Performance of individuals across tasks. Zero values represent individuals' cooperativeness average.**
 
 
-![alt text](https://raw.githubusercontent.com/ccp-eva/EVApeCognition.github.io/gh-pages/studies.png) "Study scores across 6 cooperative tasks)
+![alt text](https://raw.githubusercontent.com/ccp-eva/EVApeCognition.github.io/gh-pages/studies.png "Study scores across 6 cooperative tasks")
 ##### **Figure 4.** Individual performance grouped across tasks. Zero values represent cooperativeness average.**
 
 ###### Figures: chimpanzee icon collection, Sarah DeTroy, 2021
