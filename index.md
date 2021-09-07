@@ -30,7 +30,7 @@
 
 
 ![alt text](https://raw.githubusercontent.com/ccp-eva/EVApeCognition.github.io/gh-pages/individuals.png "Individual scores across 6 cooperative tasks")
-<img src="https://raw.githubusercontent.com/ccp-eva/EVApeCognition.github.io/gh-pages/individuals.png" width="1000">
+<img src="https://raw.githubusercontent.com/ccp-eva/EVApeCognition.github.io/gh-pages/individuals.png" width="1500">
 ##### **Figure 3. Performance of individuals across tasks. Zero values represent individuals' cooperativeness average.**
 
 
